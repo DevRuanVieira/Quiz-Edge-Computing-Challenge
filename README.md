@@ -86,7 +86,7 @@ Este projeto é um sistema de quiz baseado em IoT usando um Arduino. O sistema u
 
 ## Tecnologias Utilizadas
 
-* Tinker Card
+* TinkerCad
 * Arduino IDE
 
 
