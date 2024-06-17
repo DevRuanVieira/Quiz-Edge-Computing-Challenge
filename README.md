@@ -34,53 +34,53 @@ Este projeto é um sistema de quiz baseado em IoT usando um Arduino. O sistema u
 
 1) Ano da Temporada Inaugural da Fórmula E?
 
-  2014(x)
-  2012()
+* 2014(x)
+* 2012()
   
 2) Qual a diferença entre a Fórmula E e F1?
 
-  Elétrico(x)
-  Pistas Ovais()
+* Elétrico(x)
+* Pistas Ovais()
   
 3) Quantas equipes competem na Fórmula E?
 
-  10()
-  11(x)
+* 10()
+* 11(x)
   
 4) Duração aproximada de uma corrida?
 
-  45 min(x)
-  90 min()
+* 45 min(x)
+* 90 min()
   
 5) Onde foi a primeira corrida Fórmula E?
 
-  Pequim(x)
-  New York()
+* Pequim(x)
+* New York()
   
 6) Sistema que potencializa o carro?
 
-  Attack Mode(x)
-  Nitro()
+* Attack Mode(x)
+* Nitro()
   
 7) Qual Scuderia participa da Fórmula E?
 
-  Ferrari()
-  Audi(x)
+* Ferrari()
+* Audi(x)
   
 8) Continente com mais corridas da Fórmula E?
 
-  Europa(x)
-  Ásia()
+* Europa(x)
+* Ásia()
   
 9) Cor da Bandeira do fim da corrida?
 
-  Xadrez(x)
-  Verde()
+* Xadrez(x)
+* Verde()
   
 10) Vantagem ambiental da Fórmula E?
 
-  Gasolina()
-  Emissão zero(x)
+* Gasolina()
+* Emissão zero(x)
 
 
 
