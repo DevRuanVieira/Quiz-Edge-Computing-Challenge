@@ -84,6 +84,12 @@ Este projeto é um sistema de quiz baseado em IoT usando um Arduino. O sistema u
 
 
 
+## Tecnologias Utilizadas
+
+* Tinker Card
+* Arduino IDE
+
+
 ## Requisitos de Hardware
 
 * 1x Arduino Uno
@@ -96,5 +102,10 @@ Este projeto é um sistema de quiz baseado em IoT usando um Arduino. O sistema u
 * 1x 1 Ω Resistor
 * 1x Tensão Multímetro
 * 1x 3.3 kΩ Resistor
+
+
+## Links Importantes 
+
+
 
   
