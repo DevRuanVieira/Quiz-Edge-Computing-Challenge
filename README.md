@@ -1,7 +1,6 @@
 # Quiz-EDGE-COMPUTING-COMPUTER-SYSTEMS--Challenge-Sprint
 
-# 
-Introdução
+# Introdução
 Este projeto foi desenvolvido para criar um sistema de quiz simples utilizando o Arduino. Ele pode ser usado para testes de conhecimentos gerais ou específicos, tornando-se uma ferramenta educativa interessante. As perguntas são relacionadas à Fórmula E, mas você pode modificar o código para incluir suas próprias perguntas e respostas.
 
 ## Integrantes do Grupo 
