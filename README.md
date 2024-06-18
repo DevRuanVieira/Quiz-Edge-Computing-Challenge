@@ -107,7 +107,7 @@ Este projeto é um sistema de quiz baseado em IoT usando um Arduino. O sistema u
 ## Links Importantes 
 
 * https://www.tinkercad.com/things/2wCwB5Vx6Ft-quiz-formula-e?sharecode=foeCtT_DLibP_ym9dkkqwYYQoXuz5DiLeWGKF06r9VI
-* https://www.youtube.com/watch?v=-zUU0MLIMYM (Video Explicativo)
+* https://youtu.be/G-1uhJzhVQo?si=BKBhrgqBRTL79kaN (Video Explicativo)
 
 
 
